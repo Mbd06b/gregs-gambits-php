@@ -18,7 +18,7 @@
 <meta name="date" content="Spring2017" /> 
 
 <link href="greg.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="mySource.js"></script>
+<script type="text/javascript" src="src/mySource.js"></script>
 <script>
 
 
